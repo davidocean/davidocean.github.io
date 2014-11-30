@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+		Remove this if you use the .htaccess -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<title>air</title>
+		<meta name="description" content="">
+		<meta name="author" content="David.Ocean">
+
+		<meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+		<!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+		<link rel="stylesheet" href="mycss.css">
+		<link rel="stylesheet" href="http://localhost/3.8/jsapi/js/dojo/dijit/themes/claro/claro.css">
+		<link rel="stylesheet" href="http://localhost/3.8/jsapi/js/esri/css/esri.css">
+
+		<script src="http://localhost/3.8/jsapi/init.js"></script>
+		<script src="air.js"></script>
+
+	</head>
+
+	<body class="claro">
+		<div id="mainWindow"  data-dojo-type="dijit.layout.BorderContainer" data-dojo-props="design:'headline',gutters:false" >
+			 <div id="map" class="roundedCorners" data-dojo-type="dijit.layout.ContentPane"
+			 data-dojo-props="region:'center'" style="position:relative;">
+
+				<!--按钮 -->
+				<div style="position: absolute;left:650px; top:10px; z-Index:999;">
+					<button data-dojo-type="dijit.form.Button" onclick="air_control()">
+						空管区
+					</button>
+					<button data-dojo-type="dijit.form.Button" onclick="air_port()">
+						机场
+					</button>
+					<button data-dojo-type="dijit.form.Button" onclick="air_line()">
+						航线
+					</button>
+				</div>
+
+				<div class="roundedCorners" id="measureWindow" >
+					<div class="innerDiv roundedCorners">
+						<div id="measurementDiv"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</body>
+</html>

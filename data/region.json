@@ -1,0 +1,136 @@
+{data:[
+{
+	"name":"东北空管局",
+	"code":"2",
+	"type":"region",
+	"values":[
+		{time:"2013/1/1", value_price:"175", value_quan:"2134"},
+		{time:"2013/2/1", value_price:"475", value_quan:"5434"},
+		{time:"2013/3/1", value_price:"275", value_quan:"3234"},
+		{time:"2013/4/1", value_price:"675", value_quan:"1234"},
+		{time:"2013/5/1", value_price:"775", value_quan:"6634"},
+		{time:"2013/6/1", value_price:"375", value_quan:"7834"},
+		{time:"2013/7/1", value_price:"455", value_quan:"4734"},
+		{time:"2013/8/1", value_price:"655", value_quan:"8234"},
+		{time:"2013/9/1", value_price:"445", value_quan:"3334"},
+		{time:"2013/10/1", value_price:"875", value_quan:"9034"},
+		{time:"2013/11/1", value_price:"665", value_quan:"6734"},
+		{time:"2013/12/1", value_price:"905", value_quan:"7334"}
+	]
+},
+{
+	"name":"华北空管局",
+	"code":"1",
+	"type":"region",
+	"values":[
+		{time:"2013/1/1", value_price:"125", value_quan:"2534"},
+		{time:"2013/2/1", value_price:"425", value_quan:"5734"},
+		{time:"2013/3/1", value_price:"265", value_quan:"3534"},
+		{time:"2013/4/1", value_price:"615", value_quan:"1834"},
+		{time:"2013/5/1", value_price:"725", value_quan:"6134"},
+		{time:"2013/6/1", value_price:"335", value_quan:"7134"},
+		{time:"2013/7/1", value_price:"415", value_quan:"4934"},
+		{time:"2013/8/1", value_price:"695", value_quan:"8634"},
+		{time:"2013/9/1", value_price:"495", value_quan:"3934"},
+		{time:"2013/10/1", value_price:"825", value_quan:"9134"},
+		{time:"2013/11/1", value_price:"615", value_quan:"6234"},
+		{time:"2013/12/1", value_price:"935", value_quan:"7834"}
+	]
+},
+{
+	"name":"华东空管局",
+	"code":"3",
+	"type":"region",
+	"values":[
+		{time:"2013/1/1", value_price:"215", value_quan:"2234"},
+		{time:"2013/2/1", value_price:"245", value_quan:"3234"},
+		{time:"2013/3/1", value_price:"625", value_quan:"7634"},
+		{time:"2013/4/1", value_price:"165", value_quan:"2534"},
+		{time:"2013/5/1", value_price:"555", value_quan:"3734"},
+		{time:"2013/6/1", value_price:"325", value_quan:"6334"},
+		{time:"2013/7/1", value_price:"385", value_quan:"5934"},
+		{time:"2013/8/1", value_price:"525", value_quan:"7234"},
+		{time:"2013/9/1", value_price:"585", value_quan:"5334"},
+		{time:"2013/10/1", value_price:"625", value_quan:"7234"},
+		{time:"2013/11/1", value_price:"525", value_quan:"5134"},
+		{time:"2013/12/1", value_price:"795", value_quan:"6834"}
+	]
+},
+{
+	"name":"西北空管局",
+	"code":"6",
+	"type":"region",
+	"values":[
+		{time:"2013/1/1", value_price:"555", value_quan:"2534"},
+		{time:"2013/2/1", value_price:"365", value_quan:"3734"},
+		{time:"2013/3/1", value_price:"435", value_quan:"7334"},
+		{time:"2013/4/1", value_price:"425", value_quan:"2934"},
+		{time:"2013/5/1", value_price:"895", value_quan:"3134"},
+		{time:"2013/6/1", value_price:"425", value_quan:"6934"},
+		{time:"2013/7/1", value_price:"645", value_quan:"5334"},
+		{time:"2013/8/1", value_price:"485", value_quan:"7734"},
+		{time:"2013/9/1", value_price:"315", value_quan:"5934"},
+		{time:"2013/10/1", value_price:"445", value_quan:"7634"},
+		{time:"2013/11/1", value_price:"885", value_quan:"5534"},
+		{time:"2013/12/1", value_price:"575", value_quan:"6134"}
+	]
+},
+{
+	"name":"西南空管局",
+	"code":"5",
+	"type":"region",
+	"values":[
+		{time:"2013/1/1", value_price:"425", value_quan:"3234"},
+		{time:"2013/2/1", value_price:"256", value_quan:"4354"},
+		{time:"2013/3/1", value_price:"765", value_quan:"5674"},
+		{time:"2013/4/1", value_price:"234", value_quan:"4324"},
+		{time:"2013/5/1", value_price:"689", value_quan:"4534"},
+		{time:"2013/6/1", value_price:"521", value_quan:"5544"},
+		{time:"2013/7/1", value_price:"547", value_quan:"2134"},
+		{time:"2013/8/1", value_price:"378", value_quan:"3454"},
+		{time:"2013/9/1", value_price:"675", value_quan:"6214"},
+		{time:"2013/10/1", value_price:"876", value_quan:"5674"},
+		{time:"2013/11/1", value_price:"456", value_quan:"9804"},
+		{time:"2013/12/1", value_price:"767", value_quan:"4364"}
+	]
+},
+{
+	"name":"新疆空管局",
+	"code":"7",
+	"type":"region",
+	"values":[
+		{time:"2013/1/1", value_price:"715", value_quan:"1134"},
+		{time:"2013/2/1", value_price:"356", value_quan:"2354"},
+		{time:"2013/3/1", value_price:"455", value_quan:"5574"},
+		{time:"2013/4/1", value_price:"744", value_quan:"8724"},
+		{time:"2013/5/1", value_price:"499", value_quan:"9934"},
+		{time:"2013/6/1", value_price:"371", value_quan:"6344"},
+		{time:"2013/7/1", value_price:"907", value_quan:"5634"},
+		{time:"2013/8/1", value_price:"678", value_quan:"3354"},
+		{time:"2013/9/1", value_price:"475", value_quan:"4514"},
+		{time:"2013/10/1", value_price:"776", value_quan:"7774"},
+		{time:"2013/11/1", value_price:"316", value_quan:"6704"},
+		{time:"2013/12/1", value_price:"497", value_quan:"8864"}
+	]
+},
+{
+	"name":"中南空管局",
+	"code":"4",
+	"type":"region",
+	"values":[
+		{time:"2013/1/1", value_price:"346", value_quan:"3334"},
+		{time:"2013/2/1", value_price:"654", value_quan:"5554"},
+		{time:"2013/3/1", value_price:"587", value_quan:"4474"},
+		{time:"2013/4/1", value_price:"643", value_quan:"6524"},
+		{time:"2013/5/1", value_price:"780", value_quan:"4834"},
+		{time:"2013/6/1", value_price:"912", value_quan:"2344"},
+		{time:"2013/7/1", value_price:"882", value_quan:"4934"},
+		{time:"2013/8/1", value_price:"435", value_quan:"5754"},
+		{time:"2013/9/1", value_price:"567", value_quan:"4814"},
+		{time:"2013/10/1", value_price:"706", value_quan:"5574"},
+		{time:"2013/11/1", value_price:"616", value_quan:"3804"},
+		{time:"2013/12/1", value_price:"521", value_quan:"5264"}
+	]
+}
+]
+}

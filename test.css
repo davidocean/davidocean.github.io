@@ -1,0 +1,46 @@
+html,body {
+	width:100%;
+	height:100%;
+	margin:0;
+	background-color: #FFF;
+	overflow:hidden;
+}
+#map {
+	margin: 0px;
+	padding:0px;
+	width:100%;
+	height:100%;
+	border:solid 4px #464728;
+	position:relative;
+}
+
+#button{
+	position: absolute;
+	left: 650px;
+	top:10px;
+	z-index: 999
+}
+
+button.air_button{
+	
+}
+
+
+#measureWindow{
+	position:absolute;
+	right:35px;
+	top:5px;
+	z-index:998;
+	width:245px;
+	padding:20px;
+	background:#46472B;
+}
+.roundedCorners{
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+}
+.innerDiv{
+	background:#F1F1DC;
+	padding:4px;
+}
