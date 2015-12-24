@@ -9,4 +9,4 @@ I get 10 times more traffic from [Google][1] than from
 [2]: http://search.yahoo.com/ "Yahoo Search"
 [3]: http://search.msn.com/ "MSN Search"
 
-![alt text](/img/point.png "Title")
+![alt text](http://s.cn.bing.net/az/hprichbg/rb/JuneauXmas_ZH-CN13726790431_1920x1080.jpg "hehe")
